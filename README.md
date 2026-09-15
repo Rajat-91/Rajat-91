@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/terminal.gif" width="100%">
+</p>
 # Hi, I'm Rajat Sharma 👋
 
 ### Computer Engineering Student @ Thapar Institute of Engineering & Technology
