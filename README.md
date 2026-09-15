@@ -78,6 +78,7 @@ A machine learning project for predicting shipment delays and classifying orders
 ## 🔗 Connect With Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/rajatsharma91/)
+* 🌐 [Portfolio](https://rajat91portfolio.netlify.app/)
 * 🧠 [LeetCode](https://leetcode.com/u/Rajat_91/)
 * 💻 [GitHub](https://github.com/Rajat-91)
 
