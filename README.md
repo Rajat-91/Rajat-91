@@ -1,90 +1,98 @@
 <p align="center">
   <img src="./assets/terminal.gif" width="100%">
 </p>
-# Hi, I'm Rajat Sharma 👋
 
-### Computer Engineering Student @ Thapar Institute of Engineering & Technology
+## About Me
 
-I'm a Computer Engineering student interested in **Web Development, Machine Learning, and Problem Solving**.
+I'm **Rajat Sharma**, a Computer Science Engineering student at **Thapar Institute of Engineering & Technology**.
 
-Currently, I'm building projects with **React**, exploring **Machine Learning**, and improving my **C++ & DSA** skills.
+I enjoy turning ideas into working projects, with a current focus on **Web Development, Machine Learning, and Problem Solving**.
 
----
-
-## 🚀 What I'm Working On
-
-* 🌐 Building responsive web applications with **React**
-* 🤖 Developing practical **Machine Learning projects**
-* 🧠 Strengthening **Data Structures & Algorithms in C++**
-* 📚 Continuously learning and building real-world projects
+Right now, I'm working with **React**, building practical **Machine Learning projects**, and sharpening my **C++ & DSA** skills.
 
 ---
 
-## 🛠️ Technologies & Tools
+## What I Work With
 
-**Languages**
+### Languages
 
 `C++` `Python` `JavaScript` `Java`
 
-**Frontend**
+### Web Development
 
 `HTML` `CSS` `JavaScript` `React`
 
-**Machine Learning**
+### Machine Learning
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras`
 
-**Tools**
+### Tools
 
 `Git` `GitHub` `VS Code` `Jupyter Notebook`
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🦠 Malaria Detection AI
 
-Deep learning-based classification of microscopic blood-cell images into **Parasitized** and **Uninfected** classes.
+A deep learning system for classifying microscopic blood-cell images into **Parasitized** and **Uninfected** classes.
 
 * Custom CNN
 * MobileNetV2
 * ResNet50
 * Grad-CAM explainability
-* Best test accuracy: **96.52%**
+* **96.52% test accuracy**
 
-🔗 [View Project](https://github.com/Rajat-91/Malaria-Detection-AI)
+[View Project →](https://github.com/Rajat-91/Malaria-Detection-AI)
 
 ---
 
 ### 🌐 Event Management Platform
 
-A web-based event management system designed to manage events, attendees, organizers, volunteers, QR-based entry, and event operations.
+A web-based platform designed to handle different aspects of event operations, including **attendees, organizers, volunteers, QR-based entry, event management, and reporting**.
 
-**Tech:** React, JavaScript, HTML, CSS
+**Tech:** React · JavaScript · HTML · CSS
 
 ---
 
 ### 📦 Amazon Supply Chain Intelligence
 
-A machine learning project for predicting shipment delays and classifying orders as **On-Time, At Risk, or Delayed**.
+A machine learning project focused on predicting shipment delays and classifying orders as **On-Time, At Risk, or Delayed**.
 
-**Tech:** Python, Scikit-learn, Pandas, SMOTE
-
----
-
-## 📊 GitHub Stats
-
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajat-91\&show_icons=true\&hide_border=true\&theme=default)
+**Tech:** Python · Pandas · Scikit-learn · SMOTE
 
 ---
 
-## 🔗 Connect With Me
+## Currently Exploring
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/rajatsharma91/)
-* 🌐 [Portfolio](https://rajat91portfolio.netlify.app/)
-* 🧠 [LeetCode](https://leetcode.com/u/Rajat_91/)
-* 💻 [GitHub](https://github.com/Rajat-91)
+* ⚛️ Building more complete applications with **React**
+* 🧠 Improving **C++ & Data Structures and Algorithms**
+* 🤖 Applying **Machine Learning** to practical problems
+* 🌐 Learning how frontend applications connect with backend systems
 
 ---
 
-### 💡 Always learning. Always building.
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajat-91&show_icons=true&hide_border=true&theme=default" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajatsharma91/">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="https://rajat91portfolio.netlify.app/">Portfolio</a>
+  &nbsp; • &nbsp;
+  <a href="https://leetcode.com/u/Rajat_91/">LeetCode</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Rajat-91">GitHub</a>
+</p>
+
+<p align="center">
+  <i>Ideas in progress.</i>
+</p>
