@@ -14,9 +14,68 @@ Right now, I'm working with **React**, building practical **Machine Learning pro
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,tensorflow,git,github,vscode" />
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" />
+  <img src="https://skillicons.dev/icons?i=python" width="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  <img src="https://skillicons.dev/icons?i=java" width="45" />
 </p>
+
+| Technology | |
+|---|---|
+| C++ | Programming & DSA |
+| Python | Programming & Machine Learning |
+| JavaScript | Web Development |
+| Java | Object-Oriented Programming |
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" />
+</p>
+
+| Technology | Purpose |
+|---|---|
+| HTML | Webpage Structure |
+| CSS | Styling & Layout |
+| JavaScript | Web Interactivity |
+| React | Frontend Development |
+
+### 🤖 Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="45" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="45" />
+</p>
+
+| Technology | Purpose |
+|---|---|
+| Python | Machine Learning Development |
+| Pandas | Data Analysis |
+| NumPy | Numerical Computing |
+| Scikit-learn | Machine Learning |
+| TensorFlow | Deep Learning |
+| Keras | Neural Networks |
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+</p>
+
+| Tool | Purpose |
+|---|---|
+| Git | Version Control |
+| GitHub | Code Hosting |
+| VS Code | Code Editor |
+| Jupyter Notebook | Data Science & ML |
 
 
 ## Featured Projects
