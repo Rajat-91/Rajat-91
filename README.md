@@ -12,25 +12,12 @@ Right now, I'm working with **React**, building practical **Machine Learning pro
 
 ---
 
-## What I Work With
+## 🛠️ Tech Stack
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,tensorflow,git,github,vscode" />
+</p>
 
-`C++` `Python` `JavaScript` `Java`
-
-### Web Development
-
-`HTML` `CSS` `JavaScript` `React`
-
-### Machine Learning
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Jupyter Notebook`
-
----
 
 ## Featured Projects
 
