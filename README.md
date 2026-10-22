@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/terminal.gif" width="100%">
 </p>
-
+![](https://komarev.com/ghpvc/?username=Rajat-91&color=red&style=flat-square&label=PROFILE+VIEWS)
 ## About Me
 
 I'm **Rajat Sharma**, a Computer Science Engineering student at **Thapar Institute of Engineering & Technology**.
