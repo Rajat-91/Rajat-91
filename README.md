@@ -126,7 +126,7 @@ A machine learning project focused on predicting shipment delays and classifying
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajat-91&show_icons=true&hide_border=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajat-91" />
 </p>
 
 ---
